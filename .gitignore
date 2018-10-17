@@ -1,0 +1,4 @@
+temp/
+phpmyadmin/
+vendor/
+composer.lock
